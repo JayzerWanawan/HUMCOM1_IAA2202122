@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Wanawan, Jayzer - Resume</title>
+</head>
+<body>
+    <body style="background-color:rgb(21, 78, 21);">
+
+<h1 style="text-align:center;">Jayzer Ray L. Wanawan </h1>
+<br>
+<hr>
+<br>
+<font face= 'Courier New' size='3pt' color= 'red'>
+<h3>Objectives: </h3>
+</font>
+<ul type= 'circle'>
+<li>To enhance my skills while working in this corporation. </li>
+<li>To gain experience and practice my social skills while working at this job. </li>
+<li>To better enhance my knowledge in the field that I chose.</li>
+<li>Applying the things that I have learned from my school by trying to succeed.</li>
+</ul>
+<font face= 'Courier New' size='3pt' color= 'red'>
+<h3>Educational Background:	</h3>
+</font>
+<p style= "color:lightseagreen">Lifetrend Academy</p>
+<ul type= 'circle'>
+<li>Year:2005 - 2009</li>
+<li>Kindergarten - Grade 2</li>
+</ul>
+<br>
+<p style= "color:lightseagreen">Kias Elementary School</p>
+<ul type= 'circle'>
+<li>Year:2009 - 2013</li>
+<li>Grade 3 - Grade 6</li>
+</ul>
+<br>
+<p style= "color:lightseagreen">BCHS Fort del Pilar Annex</p>
+<ul type= 'circle'>
+<li>Grade 7 - Grade 10</li>
+<li>2013 - 2017</li>
+</ul>
+<br>
+<p style= "color:lightseagreen">University of the Cordilleras</p>
+<ul type= 'circle'>
+<li>Grade 11 - Grade 12</li>
+<li>2017 - 2019</li>
+</ul>
+<br>
+<font face= 'Courier New' size='3pt' color= 'red'>
+<h3>Working Experience:	</h3>
+</font>
+<p style= "color:lightseagreen">Sitel</p>
+<p>2019 - 2019(3 months)</p>
+<ul type= 'square'>
+<li>While I was there they tought you about being a call center and teach about how to talk to your customer,</li>
+<p>even if they are irrate, you have to talk to them professionally. I left because I was very ill that time.</p>
+</ul>
+<br>
+<p style= "color:lightseagreen">Security Guard</p>
+<p>2019 - 2020</p>
+<ul type= 'square'>
+<li>After recovering from my sickness I started working as a security guard in the maharlika building.</li>
+<p>I was invited because my relative owns a floor there and they are short on men. I quit because the pandemic</p>
+<p>happened and my relatives want my safety.</p>
+</ul>
+<br>
+<font face= 'Courier New' size='3pt' color= 'red'>
+<h3>Specialty:	</h3>
+</font>
+<p style= "color:lightseagreen">Animation:</p>
+<ul type= 'circle'>
+<li>drawing</li>
+</ul>
+<p style= "color:lightseagreen">Multimedia:</p>
+<ul type= 'circle'>
+<li>Photoshop</li>
+</ul>
+<br>
+<font face= 'Courier New' size='3pt' color= 'red'>
+<h3>Interests:	</h3>
+</font>
+<p style= "color:lightseagreen">Music:</p>
+<ul type='circle'>
+<li>Guitar</li>
+<li>singing</li>
+</ul>
+<br>
+
+<p style= "color:lightseagreen">Movies:</p>
+<ul type= 'circle'>
+<li>Sci-fi</li>
+<li>Fantasy</li>
+</ul>
+<hr>
+<h5 style="text-align:center;">20200446@s.ubaguio.edu </h5>
+<h5 style="text-align:center;">Mobile No.= 09307962976 </h5>
+<h5 style="text-align:center;">Baguio City, Ucab </h5>
+</body>
+</html>
